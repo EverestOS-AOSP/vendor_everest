@@ -15,8 +15,8 @@
 # limitations under the License.
 
 # Versioning System
-EVEREST_CODENAME := NAMCHE
-EVEREST_NUM_VER := 1.0
+EVEREST_CODENAME := Sagarmatha
+EVEREST_NUM_VER := 2.0
 
 TARGET_PRODUCT_SHORT := $(subst everest_,,$(EVEREST_BUILD_TYPE))
 
